@@ -45,7 +45,6 @@ Advanced fraud analytics project focused on transaction monitoring, fraud patter
 **Krishnam Mavani**
 
 * GitHub: https://github.com/kano8689
-* LinkedIn: Add Your LinkedIn Profile
 
 ---
 
