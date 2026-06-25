@@ -32,7 +32,7 @@ Advanced fraud analytics project focused on transaction monitoring, fraud patter
 
 Interactive data analytics project focused on economic indicator analysis, trend forecasting, financial data visualization, and business intelligence using Python and Plotly.
 
-📂 [View Project](./Finance%20%Economics%20Data%20Analytics)
+📂 [View Project](./Finance%20Economics%20Data%20Analysis)
 
 ---
 
