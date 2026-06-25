@@ -28,15 +28,11 @@ Advanced fraud analytics project focused on transaction monitoring, fraud patter
 
 ---
 
-## 🛠️ Technologies Used
+### 📈 Finance & Economics Analytics Dashboard
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebook
+Interactive data analytics project focused on economic indicator analysis, trend forecasting, financial data visualization, and business intelligence using Python and Plotly.
+
+📂 [View Project](./Finance%20%Economics%20Data%20Analytics)
 
 ---
 
