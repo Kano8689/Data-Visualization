@@ -20,14 +20,6 @@ Comprehensive automobile market analysis including data cleaning, outlier detect
 
 ---
 
-### 🛡️ Financial Fraud Detection & Risk Analytics Platform
-
-Advanced fraud analytics project focused on transaction monitoring, fraud pattern identification, risk categorization, and business intelligence visualizations.
-
-📂 [View Project](./Financial%20Fraud%20Detection%20%26%20Risk%20Analytics%20Platform)
-
----
-
 ### 📈 Finance & Economics Analytics Dashboard
 
 Interactive data analytics project focused on economic indicator analysis, trend forecasting, financial data visualization, and business intelligence using Python and Plotly.
