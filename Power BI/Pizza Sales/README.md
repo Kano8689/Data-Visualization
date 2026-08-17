@@ -23,15 +23,15 @@ The project contains three analytical dashboards: **Executive Overview, Sales & 
 
 ## 🛠️ Tools & Technologies
 
-* **Power BI**
-* **Power Query**
-* **DAX**
-* **Data Modeling**
-* **Data Cleaning**
-* **Data Visualization**
-* **Business Intelligence**
-* **Sales Analytics**
-* **Time Intelligence**
+* Power BI
+* Power Query
+* DAX
+* Data Modeling
+* Data Cleaning
+* Data Visualization
+* Business Intelligence
+* Sales Analytics
+* Time Intelligence
 
 ---
 
@@ -129,18 +129,18 @@ The objective of this project is to transform raw pizza sales transactions into 
 
 ## 👨‍💻 Skills Demonstrated
 
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Data Cleaning
-- Data Visualization
-- KPI Development
-- Business Intelligence
-- Sales Analytics
-- Time Intelligence
-- Product Analysis
-- Dashboard Design
+* Power BI
+* Power Query
+* DAX
+* Data Modeling
+* Data Cleaning
+* Data Visualization
+* KPI Development
+* Business Intelligence
+* Sales Analytics
+* Time Intelligence
+* Product Analysis
+* Dashboard Design
 
 ---
 
