@@ -49,4 +49,4 @@ Developed an interactive Power BI dashboard to analyze **global sales, revenue, 
 
 ---
 
-📌 **Back to Main Repository:** [Data Analytics & Visualization Portfolio](../)
+📌 **Back to Main Repository:** [Data Analytics & Visualization Portfolio](../../../)
