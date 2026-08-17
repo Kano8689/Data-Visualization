@@ -148,5 +148,5 @@ The objective of this project is to transform raw Global Superstore transaction 
 
 ---
 
-📌 **Back to Power BI Projects:** [Power BI Business Intelligence](../)
+📌 **Back to Power BI Projects:** [Power BI Business Intelligence](../)  
 🏠 **Back to Main Repository:** [Data Analytics & Visualization Portfolio](../../../../)
