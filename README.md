@@ -16,7 +16,7 @@ A collection of Python-based projects focused on **data cleaning, exploratory da
 
 A collection of interactive Power BI projects focused on **business intelligence, KPI analysis, data modeling, Power Query transformations, DAX calculations, and interactive dashboard development**.
 
-📂 [Explore Power BI Projects](./Power BI)
+📂 [Explore Power BI Projects](./Power%20BI)
 
 ---
 
