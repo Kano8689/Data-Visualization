@@ -16,17 +16,34 @@ A collection of Python-based projects focused on **data cleaning, exploratory da
 
 A collection of interactive Power BI projects focused on **business intelligence, KPI analysis, data modeling, Power Query transformations, DAX calculations, and interactive dashboard development**.
 
-📂 [Explore Power BI Projects](./Power-BI)
+📂 [Explore Power BI Projects](./Power BI)
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Programming & Data Analysis:** Python, Pandas, NumPy
-**Data Visualization:** Matplotlib, Seaborn, Plotly
-**Business Intelligence:** Power BI, Power Query, DAX
-**Analytics:** Data Cleaning, EDA, KPI Analysis, Trend Analysis, Business Insights
-**Dashboard Development:** Interactive Dashboards, Data Modeling, Reports & Visual Analytics
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Plotly
+
+### Business Intelligence
+- Power BI
+- Power Query
+- DAX
+
+### Data Analytics
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- KPI Analysis
+- Business Insights
+- Interactive Dashboard Development
+
+### Dashboard Development:
+- Interactive Dashboards
+- Data Modeling
+- Reports & Visual Analytics
 
 ---
 
