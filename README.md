@@ -44,7 +44,7 @@ Interactive Power BI dashboard analyzing pizza sales performance across revenue,
 
 🛠️ **Tools:** Power BI, Power Query, DAX
 
-📂 [View Project](./Power BI/Pizza Sales Analysis)
+📂 [View Project](./Power%20BI/Pizza%20Sales%20Analysis)
 
 ---
 
@@ -54,7 +54,7 @@ Interactive Power BI dashboard analyzing car sales performance across revenue, c
 
 🛠️ **Tools:** Power BI, Power Query, DAX
 
-📂 [View Project](./Power BI/Car Sales Analysis)
+📂 [View Project](./Power%20BI/Car%20Sales%20Analysis)
 
 ---
 
@@ -64,7 +64,7 @@ Interactive Power BI dashboard analyzing global sales performance, profitability
 
 🛠️ **Tools:** Power BI, Power Query, DAX
 
-📂 [View Project](./Power BI/Global Super Store Analysis)
+📂 [View Project](./Power%20BI/Global%20Super%20Store%20Analysis)
 
 ---
 
@@ -101,13 +101,13 @@ Interactive Power BI dashboard analyzing global sales performance, profitability
 data-visualization/
 │
 ├── Python/
-│   ├── Automobile-Market-Analysis/
-│   ├── Bank-Customer-Data-Analysis/
-│   └── Finance-Economics-Data-Analysis/
+│   ├── Automobile Market Analysis/
+│   ├── Bank Customer Data Analysis/
+│   └── Finance Economics Data Analysis/
 │
 ├── Power-BI/
-│   ├── Pizza-Sales-Analysis/
-│   ├── Car-Sales-Analysis/
-│   └── Global-Super-Store-Analysis/
+│   ├── Pizza Sales Analysis/
+│   ├── Car Sales Analysis/
+│   └── Global Super Store Analysis/
 │
 └── README.md
