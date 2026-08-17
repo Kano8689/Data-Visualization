@@ -73,3 +73,8 @@ A comprehensive finance and economics analytics project designed to explore macr
 ## 📈 Key Outcome
 
 Provides meaningful insights into macroeconomic performance by analyzing financial indicators, identifying trends and correlations, and delivering interactive business intelligence dashboards that support data-driven decision-making through effective visual storytelling.
+
+---
+
+📌 **Back to Python Projects:** [Python Data Analysis & Visualization](../)  
+🏠 **Back to Main Repository:** [Data Analytics & Visualization Portfolio](../../)

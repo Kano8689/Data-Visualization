@@ -50,3 +50,8 @@ This project focuses on analyzing bank customer data to understand customer demo
 ## 📈 Key Outcome
 
 The project provides insights into customer behavior, financial patterns, and demographic characteristics to support data-driven banking decisions.
+
+---
+
+📌 **Back to Python Projects:** [Python Data Analysis & Visualization](../)  
+🏠 **Back to Main Repository:** [Data Analytics & Visualization Portfolio](../../)
