@@ -22,6 +22,11 @@ A collection of interactive Power BI projects focused on **business intelligence
 
 ## 🛠️ Skills & Technologies
 
+### Programming & Data Analysis
+- Python
+- Pandas
+- NumPy
+
 ### Data Visualization
 - Matplotlib
 - Seaborn
@@ -59,9 +64,9 @@ data-visualization/
 │   └── README.md
 │
 ├── Power-BI/
-│   ├── Pizza Sales Analysis/
-│   ├── Car Sales Analysis/
-│   ├── Global Super Store Analysis/
+│   ├── Pizza Sales/
+│   ├── Car Sales/
+│   ├── Global Super Store/
 │   └── README.md
 │
 └── README.md

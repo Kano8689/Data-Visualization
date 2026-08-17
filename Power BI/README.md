@@ -10,7 +10,7 @@ Developed an interactive Power BI dashboard to analyze **pizza sales performance
 
 🛠️ **Tools:** Power BI, Power Query, DAX
 
-📂 [View Project](./Pizza-Sales-Analysis)
+📂 [View Project](./Pizza%20Sales)
 
 ---
 
@@ -20,7 +20,7 @@ Developed an interactive Power BI dashboard to analyze **car sales performance, 
 
 🛠️ **Tools:** Power BI, Power Query, DAX
 
-📂 [View Project](./Car-Sales-Analysis)
+📂 [View Project](./Car%20Sales)
 
 ---
 
@@ -30,7 +30,7 @@ Developed an interactive Power BI dashboard to analyze **global sales, revenue, 
 
 🛠️ **Tools:** Power BI, Power Query, DAX
 
-📂 [View Project](./Global-Super-Store-Analysis)
+📂 [View Project](./Global%20Super%20Store)
 
 ---
 
@@ -49,4 +49,4 @@ Developed an interactive Power BI dashboard to analyze **global sales, revenue, 
 
 ---
 
-📌 **Back to Main Repository:** [Data Analytics & Visualization Portfolio](../README.md)
+📌 **Back to Main Repository:** [Data Analytics & Visualization Portfolio](../)
