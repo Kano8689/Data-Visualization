@@ -2,7 +2,7 @@
 
 Welcome to my **Data Analytics & Visualization Portfolio**, featuring projects developed using **Python and Power BI**. These projects demonstrate practical skills in data cleaning, exploratory data analysis, data visualization, dashboard development, and business insights.
 
-==
+---
 
 ## 🐍 Python Data Analysis & Visualization
 
@@ -34,7 +34,7 @@ Analyzed automobile market data through data cleaning, outlier detection, explor
 
 📂 [View Project](./Python/Automobile%20Market%20Analysis)
 
-==
+---
 
 ## 📊 Power BI Projects
 
@@ -44,7 +44,7 @@ Interactive Power BI dashboard analyzing pizza sales performance across revenue,
 
 🛠️ **Tools:** Power BI, Power Query, DAX
 
-📂 [View Project](./Power-BI/Pizza-Sales-Analysis)
+📂 [View Project](./Power BI/Pizza Sales Analysis)
 
 ---
 
@@ -54,7 +54,7 @@ Interactive Power BI dashboard analyzing car sales performance across revenue, c
 
 🛠️ **Tools:** Power BI, Power Query, DAX
 
-📂 [View Project](./Power-BI/Car-Sales-Analysis)
+📂 [View Project](./Power BI/Car Sales Analysis)
 
 ---
 
@@ -64,7 +64,7 @@ Interactive Power BI dashboard analyzing global sales performance, profitability
 
 🛠️ **Tools:** Power BI, Power Query, DAX
 
-📂 [View Project](./Power-BI/Global-Super-Store-Analysis)
+📂 [View Project](./Power BI/Global Super Store Analysis)
 
 ---
 
