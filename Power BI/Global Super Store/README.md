@@ -64,7 +64,7 @@ The **Region & State Level Analysis Dashboard** provides detailed geographical a
 
 ### 📷 Dashboard Preview
 
-![Region & State Level Analysis Dashboard](Screenshots/region_state_analysis.png)
+![Region & State Level Analysis Dashboard](Screenshots/region_sales_analysis.png)
 
 ### 🔍 Key Analysis
 
