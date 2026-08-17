@@ -54,7 +54,7 @@ Interactive Power BI dashboard analyzing car sales performance across revenue, c
 
 🛠️ **Tools:** Power BI, Power Query, DAX
 
-📂 [View Project](./Power%20BI)
+📂 [View Project](./Power%20BI/Car%20Sales)
 
 ---
 
