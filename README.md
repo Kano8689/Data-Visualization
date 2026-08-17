@@ -2,7 +2,7 @@
 
 Welcome to my **Data Analytics & Visualization Portfolio**, featuring projects developed using **Python and Power BI**. These projects demonstrate practical skills in data cleaning, exploratory data analysis, data visualization, dashboard development, and business insights.
 
-===
+==
 
 ## 🐍 Python Data Analysis & Visualization
 
@@ -12,7 +12,7 @@ Analyzed financial and economic indicators to identify trends, relationships, an
 
 🛠️ **Tools:** Python, Pandas, NumPy, Plotly
 
-📂 [View Project](./Finance%20Economics%20Data%20Analysis)
+📂 [View Project](./Python/Finance%20Economics%20Data%20Analysis)
 
 ---
 
@@ -22,7 +22,7 @@ Exploratory data analysis of customer demographics, account balances, job catego
 
 🛠️ **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-📂 [View Project](./Bank%20Customer%20Data%20Analysis)
+📂 [View Project](./Python/Bank%20Customer%20Data%20Analysis)
 
 ---
 
@@ -34,7 +34,7 @@ Analyzed automobile market data through data cleaning, outlier detection, explor
 
 📂 [View Project](./Python/Automobile%20Market%20Analysis)
 
-===
+==
 
 ## 📊 Power BI Projects
 
